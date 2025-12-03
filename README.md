@@ -1,3 +1,7 @@
+Paricl 3 de Recuperación de Ingenieria WEB
+José Centella
+8-1009-1127
+
 Este proyecto consiste en un sistema básico de registro y consulta de empleados, construido con:
 
 PHP 8+
